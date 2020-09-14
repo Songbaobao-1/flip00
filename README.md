@@ -130,7 +130,7 @@ You MUST follow the following rules when writing collaboratively. Otherwise, you
 
 1. Use the `git` client for copying, moving, or renaming files and folders that are under revision control.
 
-1. Use `git-flow` scheme to create `feature`, `branch`, `release` and `version` of your paper. Be really careful when you are touching `develop` or `master` branch.
+1. Use `git-flow` scheme to create `feature`, `branch`, `release` and `version` of your paper. Be really careful when you are touching `develop` or `master` branch.         
 
 
 

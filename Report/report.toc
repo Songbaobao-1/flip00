@@ -1,0 +1,9 @@
+\babel@toc {english}{}
+\contentsline {section}{\tocsection {}{1}{Introduction}}{2}{section.1}%
+\contentsline {section}{\tocsection {}{2}{Preliminaries}}{3}{section.2}%
+\contentsline {section}{\tocsection {}{3}{Method}}{3}{section.3}%
+\contentsline {section}{\tocsection {}{4}{Experiment and Analysis}}{4}{section.4}%
+\contentsline {section}{\tocsection {}{5}{Conclusions}}{4}{section.5}%
+\contentsline {section}{\tocsection {}{}{Acknowledgment}}{4}{section*.14}%
+\contentsline {section}{\tocsection {}{}{References}}{5}{section*.15}%
+\contentsline {section}{List of Todos}{5}{section*.16}%

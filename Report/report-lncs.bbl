@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{BL12J01}
+Beliakov, G., Li, G.: Improving the speed and stability of the k-nearest
+  neighbors method. Pattern Recognition Letters  \textbf{33}(10),  1296--1301
+  (2012)
+
+\end{thebibliography}

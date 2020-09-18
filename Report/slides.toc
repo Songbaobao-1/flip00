@@ -1,0 +1,19 @@
+\pdcontentsline{1}{3}{Problem}
+\pdcontentsline{0}{4}{Description and Evalution}
+\pdcontentsline{1}{5}{Data Processing}
+\pdcontentsline{0}{6}{Basic Information of Data}
+\pdcontentsline{0}{7}{Missing Value and NaN Value}
+\pdcontentsline{0}{8}{Outliers and Duplicate Data}
+\pdcontentsline{0}{9}{Process Shops Set}
+\pdcontentsline{0}{10}{Process Items Set}
+\pdcontentsline{0}{11}{Process Categories Set}
+\pdcontentsline{0}{12}{Sales Analysis}
+\pdcontentsline{0}{13}{Closed Shops and Discontinued Products}
+\pdcontentsline{1}{14}{Feature Selection}
+\pdcontentsline{0}{15}{Data Feature}
+\pdcontentsline{0}{16}{Monthly Sales Feature}
+\pdcontentsline{0}{17}{Historical Feature}
+\pdcontentsline{1}{18}{Modeling and Forecasting}
+\pdcontentsline{0}{19}{Feature Engineering}
+\pdcontentsline{0}{20}{Lightgbm}
+\pdcontentsline{0}{21}{Comparison}

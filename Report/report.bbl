@@ -1,0 +1,21 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Beliakov et~al.(2011)Beliakov, James, and Li]{BJL11J01}
+Gleb Beliakov, Simon James, and Gang Li.
+\newblock Learning choquet-integral-based metrics for semisupervised
+  clustering.
+\newblock \emph{Fuzzy Systems, IEEE Transactions on}, 19\penalty0 (3):\penalty0
+  562--574, 2011.
+
+\bibitem[Wang and Zhao(2017)]{BJL11J02}
+Y.~Zhang Wang, Dehua and Y.~Zhao.
+\newblock Lightgbm: An effective mirna classification method in breast cancer
+  patients.
+\newblock \emph{the 2017 International Conference.}, 2017.
+
+\end{thebibliography}
